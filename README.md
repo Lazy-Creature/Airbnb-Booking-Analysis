@@ -1,5 +1,4 @@
 
-```md
 # 🏡 Airbnb Booking Analysis  
 
 ## 📖 Project Description  
@@ -81,12 +80,7 @@ Contributions are welcome! Follow these steps:
    ```bash
    git push origin feature-branch
    ```  
-5. **Open a Pull Request**.  
 
-## 📜 License  
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.  
-
----
 
 🚀 **Happy Analyzing!** 📊  
 ```
